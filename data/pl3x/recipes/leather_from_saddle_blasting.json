@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "minecraft:saddle"
+  },
+  "result": "minecraft:leather",
+  "experience": 0.15,
+  "cookingtime": 100
+}

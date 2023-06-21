@@ -2,14 +2,14 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "pl3x:shaped_saddle"
+      "pl3x:saddle_shaped"
     ]
   },
   "criteria": {
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "pl3x:shaped_saddle"
+        "recipe": "pl3x:saddle_shaped"
       }
     },
     "has_leather": {

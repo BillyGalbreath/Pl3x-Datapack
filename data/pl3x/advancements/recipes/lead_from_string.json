@@ -2,14 +2,14 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "pl3x:shaped_lead_from_string"
+      "pl3x:lead_from_string_shaped"
     ]
   },
   "criteria": {
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "pl3x:shaped_lead_from_string"
+        "recipe": "pl3x:lead_from_string_shaped"
       }
     },
     "has_string": {

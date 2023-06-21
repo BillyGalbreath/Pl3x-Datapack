@@ -2,14 +2,14 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "pl3x:shapeless_coal_from_charcoal"
+      "pl3x:coal_from_charcoal_shapeless"
     ]
   },
   "criteria": {
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "pl3x:shapeless_coal_from_charcoal"
+        "recipe": "pl3x:coal_from_charcoal_shapeless"
       }
     },
     "has_charcoal": {

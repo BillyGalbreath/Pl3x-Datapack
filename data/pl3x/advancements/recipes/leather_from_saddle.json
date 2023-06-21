@@ -2,15 +2,17 @@
   "parent": "minecraft:recipes/root",
   "rewards": {
     "recipes": [
-      "pl3x:furnace_leather_from_saddle",
-      "pl3x:shapeless_leather_from_saddle"
+      "pl3x:leather_from_saddle_blasting",
+      "pl3x:leather_from_saddle_campfire_cooking",
+      "pl3x:leather_from_saddle_shapeless",
+      "pl3x:leather_from_saddle_smelting"
     ]
   },
   "criteria": {
     "has_the_recipe": {
       "trigger": "minecraft:recipe_unlocked",
       "conditions": {
-        "recipe": "pl3x:shapeless_leather_from_saddle"
+        "recipe": "pl3x:leather_from_saddle_shapeless"
       }
     },
     "has_saddle": {
